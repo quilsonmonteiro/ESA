@@ -73,9 +73,8 @@ No ciclo é importante que a classificação e “rotulação” da informação
 
 ## Security Shift Left ##
 
-Embora seja um conceito muito forte na cultura "DevSecOps", o “Shift Left” pode ser modelo modelo para todo "Ciclo de Desenvolvimento Seguro" pois, a proposta é implementar controles de segurança em todas as fases de um projetos.
+Embora seja um conceito muito forte na cultura "DevSecOps", o “Shift Left” pode ser um modelo para todo "Ciclo de Desenvolvimento Seguro" pois, a proposta é implementar controles de segurança em todas as fases de um projetos.
 
 O mais importante deste modelo, é que quanto mais cedo um controle for implementado, menor o custo do projeto e menor tempo de correção e exeposição para possíveis vulnerabilidades.
 
-O “Shift Left” prover processos e modelos de segurança, para automação de controles em todos os estágios de uma aplicação, como por exemplo, Stack de Rede; Host; Contêineres; Servidores; provisionamento em Cloud; Codificação e Acesso.
-
+O sucesso deste modelo de segurança,  está diretamente relacionado a necessidade de processos e artefatos de segurança, para automação de controles em todos os estágios de uma aplicação, como por exemplo, Stack de Rede; Host; Contêineres; Servidores; provisionamento em Cloud; Codificação e Acesso.
